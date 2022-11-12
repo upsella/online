@@ -1,0 +1,20 @@
+{{ $sandboxName := .Get "sandboxName" }}
+{{ $sandboxesGitUrl := .Site.Params.sandboxesGit.url }}
+{{ $sandboxesGitBranch := .Site.Params.sandboxesGit.branch }}
+{{ $image := .Site.Params.cloudShell.image }}
+{{ $url := .Site.Params.cloudShell.url }}
+{{ $url := printf "%s?cloudshell_git_repo=%s&" $url $sandboxesGitUrl }}
+{{ $url := printf "%s&cloudshell_git_branch=%s" $url $sandboxesGitBranch }}
+{{ $url := printf "%s&cloudshell_image=%s" $url $image }}
+{{ $url := printf "%s&cloudshell_tutorial=README.md&cloudshell_open_in_editor=hub.yaml" $url }}
+
+{{ $sandboxes := .Site.Params.sandboxes }}
+
+{{ range $_, $sandbox := $sandboxes }}
+<div style="margin-bottom: 10px;">
+    <h5>{{ $sandbox.title }}</h5>
+    <a href="{{ printf `%s&cloudshell_workspace=%s` $url $sandbox.name }}" target="_blank" rel="noopener" class="book-btn">
+        {{ $sandbox.btn }}
+    </a>
+</div>
+{{ end }}
