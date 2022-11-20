@@ -1,43 +1,30 @@
 +++
-title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
+title = "About Us"
+description = "About our Business"
+keywords = ["About Us, How did we create this business and what do we do?"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## 1. Our Business
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+This business named UpSella is a business I created for a few reasons, one being that I have always wanted to go into online sales and marketing and I have always had a passion for creative design with website building. Another being that I found an issue that I believe I can solve... so many businesses do not market online and do not have an online website. One of the main reasons behind this issue is because requesting websites created professionally is normally very expensive, along with online marketing it ends up not being affordable for many businesses. That way there ends up being a huge loss of potential customers and sales for these businesses. So for that reason I decided to create UpSella. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 2. What We do
 
-## 2. WHAT ARE THE POSTAL RATES?
+We set up online marketing and create websites for your business. Then websites we design are made by picking a template of your choice then downloading it into a code editor. After that we code the rest of your website with just the code editor. Lastly we pick a domain for your website and launch it on the web, then we refresh your domain every year to make sure your site keeps running. We also offer online marketing options such as setting up PPC advertising and SEM on your website to market your business and get it known. 
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## 3. Web Design
 
-## 3. DO YOU SEND OVERSEAS?
+We create online websites to your liking for a reasonable price, we will provide you many options for how you want your website to turn out and we will only charge you based on how you pick those options. We will make sure to make your website to your liking and if it is not then you can contact us and we would recreate it free of charge. 
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## 4. Online Marketing
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+We can set up and run PPC advertising for you on the optimal platforms that will get it attention as a charge of $150 to $500 depending on the amount of platforms you want your advertisement to be displayed on. We also offer another option of ours which is called Search Engine Marketing or SEM. This strategy will help your website get on the top page when someone searches the SEM keywords that you choose. The cost of setting SEM up will only be a one time fee that ranges between $150 to $400 based on how many keywords you want put in your website. You can always contact us for more details.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
 
-## 5. ANOTHER IMPORTANT QUESTION
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+ 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
 
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+ .
