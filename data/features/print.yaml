@@ -1,5 +1,5 @@
 weight: 2
 name: "Contact Us"
 icon: "fas fa-print"
-url: ""
-description: "Click on the contact page and let us know your request for your website and online marketing."
+url: "http://localhost:1313/contact/"
+description: "Click on the contact page and inform us of your request for webdesign and online marketing."
