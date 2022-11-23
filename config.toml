@@ -227,8 +227,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>We create and market online websites for your business at lower prices than other organizations.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>UpSella creates and markets online websites for your business at lower prices and with better sales results than other organizations.</p>"
+    copyright = "Copyright (c) 2019 - 2022, UpSella; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
