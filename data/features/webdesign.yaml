@@ -1,5 +1,5 @@
 weight: 1
 name: "Web Design"
 icon: "fas fa-desktop"
-url: "http://localhost:1313/faq/"
+url: "/faq/"
 description: "Tell us about your business plans, so that we can create a custom website geared to your specific needs. We will optimize all the text and images on your website to ensure it focuses on the correct keywords and provides useful information to your potential customers."
