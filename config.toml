@@ -69,7 +69,7 @@ pluralizelisttitles = false
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "SEO"
+    name       = "SEO - Search Engine Optimization"
     identifier = "section.about"
     url        = ""
     weight     = 2
@@ -83,7 +83,7 @@ pluralizelisttitles = false
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "PPC Marketing"
+    name       = "PPC - Pay Per Click Advertising"
     identifier = "section.marketing"
     url        = ""
     weight     = 3
