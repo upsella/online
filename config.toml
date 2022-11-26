@@ -144,31 +144,13 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+12 34 567 89 01"
+    url = "tel:+1 858 555 0000"
     pre = "<i class='fas fa-2x fa-phone'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:contact@upsella.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -207,7 +189,7 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/mrgdvaao"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
@@ -249,9 +231,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at ajmameshin@gmail.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us at contact@upsella.org.</p>
+      <p class="hidden-md hidden-lg">
+      <a href="mailto:contact@upsella.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
