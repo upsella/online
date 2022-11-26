@@ -45,51 +45,27 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
+    name       = "Small Size Website"
     url        = ""
     weight     = 1
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
+    name       = "Medium Size Website"
     url        = ""
     weight     = 2
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "3 Columns"
+    name       = "Large Size Website"
     url        = ""
     weight     = 3
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
+    name       = "Custom Size Website"
     url        = ""
     weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
     parent     = "section.portfolio"
 
 [[menu.main]]
@@ -101,15 +77,9 @@ pluralizelisttitles = false
     post       = 2
 
 [[menu.main]]
-    name       = "About Us"
+    name       = "Set Up SEO"
     url        = ""
     weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
     parent     = "section.about"
 
 [[menu.main]]
@@ -121,7 +91,7 @@ pluralizelisttitles = false
     post       = 2
 
 [[menu.main]]
-    name       = "Packages"
+    name       = "Set Up PPC"
     url        = ""
     weight     = 1
     parent     = "section.marketing"
