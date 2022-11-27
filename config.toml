@@ -1,5 +1,5 @@
 baseurl = "https://upsella.org/" 
-title ="UpSella"
+title ="Web design and Search Engine Optimization - inrease your sales with Upsella"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
 languageCode = "en-us"
@@ -29,77 +29,16 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-
 [[menu.main]]
     name       = "Pricing"
-    identifier = "menu.portfolio"
-    url        = "/img/template-homepage.png"
+    identifier = "menu.pricing"
+    url        = "/pricing/"
     weight     = 3
-
-[[menu.main]]
-    name       = "Websites"
-    identifier = "section.portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.portfolio"
-    post       = 1
-
-[[menu.main]]
-    name       = "Small Size Website"
-    url        = ""
-    weight     = 1
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Medium Size Website"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Large Size Website"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Custom Size Website"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "SEO"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Search Engine Optimization Service"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "PPC"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Pay Per Click Advertising Service"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
 
 [[menu.main]]
     name       = "About Us"
-    identifier = "menu.faq"
-    url        = "/faq/"
+    identifier = "menu.about-us"
+    url        = "/about-us/"
     weight     = 6
 
 [[menu.main]]
@@ -125,14 +64,14 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Upsella"
+    defaultKeywords = ["web design", "PPC", "internet marketing", "website hosting", "San Diego"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "UpSella creates and markets online websites for your business at lower prices and with better sales results than other organizations."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    twitter_site = "upsella" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
@@ -180,7 +119,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>UpSella creates and markets online websites for your business at lower prices and with better sales results than other organizations.</p>"
-    copyright = "Copyright (c) 2019 - 2022, UpSella; all rights reserved."
+    copyright = "Copyright (c) 2019 - 2022, Upsella; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -201,7 +140,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at contact@upsella.org.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at contact@upsella.org</p>
       <p class="hidden-md hidden-lg">
       <a href="mailto:contact@upsella.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
