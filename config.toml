@@ -1,5 +1,5 @@
 baseurl = "https://upsella.online/" 
-title ="Web design and Search Engine Optimization - inrease your sales with Upsella"
+title ="Web Design and Search Engine Optimization - inrease your sales with Upsella"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
 languageCode = "en-us"
