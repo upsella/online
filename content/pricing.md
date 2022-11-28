@@ -8,7 +8,7 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
 
   We build your business website for as little as $900. 
   We use open source technology to run your site at minimum cost. 
-  We offer small, medium, large, or custom websites based on your needs. 
+  We offer small, medium, or large size websites. 
   
 
 
