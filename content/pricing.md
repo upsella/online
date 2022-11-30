@@ -11,6 +11,10 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
   We offer small, medium, large, or custom websites based on your needs. 
   Please select one of the initial implementation packages below.  
 {{< rawhtml >}}
+  <br>
+  Review and accept our Terms of Service 
+  <br>   
+
 {{< /rawhtml >}}  
   Email us at contact@upsella.org if you prefer a custom payment plan (invoice billing) or custom requirements for your website.
 
@@ -30,7 +34,7 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
   For major updates and upgrades, please contact us for a custom quote. 
   We also provide SEO optimization and PPC adverising services as addons to the suport plans.
 {{< rawhtml >}}
-  <br>   
+  <br>
 {{< /rawhtml >}}  
   Email us at contact@upsella.org if you have custom requirements for your website of prefer invoice billing for 12 month subscriptions.
 
