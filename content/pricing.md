@@ -40,15 +40,18 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
 {{< /rawhtml >}}  
 
 
-## PPC Advertising - Custom
+## PPC Advertising - Monthly Campaigns
 
-  After your website is implemented, we can setup Pay Per Click advertising campain to promote your business on Google AdWords and other platforms.
-  We define and monitor keyword performance to optimize your results and minimize your costs per customer conversion.
-  We create and share monthly reports to provide feedback on advertizing campaigns and optimizing results.
+  After your website is implemented, we can setup a Pay Per Click advertising campain to promote your business on Google AdWords and other platforms.
+  We define and monitor keyword performance to optimize your results and minimize your cost per customer conversion.
+  We create and share monthly reports to provide feedback on advertizing campaigns and we continuosly optimize campaigns.
+{{< rawhtml >}}
+  <br>   
+{{< /rawhtml >}}  
   You can choose a custom PPC amount based on your budget.  Upsella fee is only 15% of your spend.
-  Please select your PPC monthyly budget amount (between $500 and $1000).
+  Please select your PPC monthly budget amount (minimum is $500).
 
-  
+
 
 .
  
