@@ -9,9 +9,9 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
   We build your business website for as little as $900. 
   We use open source technology to run your site at minimum cost while providing high reliability. 
   We offer small, medium, large, or custom websites based on your needs. 
-  Please select one of the initial implementation packages.  
-  <br>
-  <br>
+  Please select one of the initial implementation packages below.  
+{{< rawhtml >}}
+{{< /rawhtml >}}  
   Email us at contact@upsella.org if you prefer a custom payment plan (invoice billing) or custom requirements for your website.
 
 {{< rawhtml >}}
@@ -24,21 +24,31 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
   After your website is implemented, please subscribe to one of the support packages below.
   We continue to run and support your website for as little as $25 per month. 
   We renew DNS domains, SSL certificate, and upgrade software to the latest version as needed.
-  We apply minor content/product updates based on your descriptions/specifciations.
+  We apply minor content/product updates based on your descriptions & specifciations.
   We use Github in your publish process, ensuring your site is automatically backed up and versioned.
   We deploy your website using Hugo, Github pages, Netlify, Stripe to ensure that your site is blazing fast, reliable, and secure.
   For major updates and upgrades, please contact us for a custom quote. 
   We also provide SEO optimization and PPC adverising services as addons to the suport plans.
-<br>   
-<br>
+{{< rawhtml >}}
+  <br>   
+{{< /rawhtml >}}  
   Email us at contact@upsella.org if you have custom requirements for your website of prefer invoice billing for 12 month subscriptions.
 
 
 {{< rawhtml >}}
-  <div id="pricewell-a5674410-9bb3-4444-820c-137b6aef59c7"></div><script src="https://snippet.pricewell.io/a5674410-9bb3-4444-820c-137b6aef59c7/pricewell.js" async=""></script>
+<div id="pricewell-a5674410-9bb3-4444-820c-137b6aef59c7"></div><script src="https://snippet.pricewell.io/a5674410-9bb3-4444-820c-137b6aef59c7/pricewell.js" async=""></script>
 {{< /rawhtml >}}  
 
 
+## PPC Advertising - Custom
+
+  After your website is implemented, we can setup Pay Per Click advertising campain to promote your business on Google AdWords and other platforms.
+  We define and monitor keyword performance to optimize your results and minimize your costs per customer conversion.
+  We create and share monthly reports to provide feedback on advertizing campaigns and optimizing results.
+  You can choose a custom PPC amount based on your budget.  Upsella fee is only 15% of your spend.
+  Please select your PPC monthyly budget amount (between $500 and $1000).
+
+  
 
 .
  
