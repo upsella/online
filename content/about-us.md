@@ -6,7 +6,7 @@ keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "Cali
 
 ## 1. Our Business
 
-UpSella is a business that was created by professionals who have a passion for internet marketing, creative design and website building. Our mission is to help small businesses and non-profits to increase sales with online marketing. Your website is the gold standard for online home base. We will help you to create a site that accurately establishes your business and brand image, and if needed with ability to accept payments online. We will also implement online advertising (SEO and PPC) to drive more visitors to your site. UpSella is the solution for companies without large funding, as we create affordable websites and online marketing.
+UpSella is a business that was created by professionals who have a passion for internet marketing, creative design and website building. Our mission is to help small businesses and non-profits to increase sales with online marketing. Your website is the gold standard for online home base. We will help you to create a site that accurately establishes your business and brand image, and if needed with ability to accept payments online. We will also implement online advertising (SEO and PPC) to drive more visitors to your site. UpSella is the solution for companies without large funding, as we create affordable websites and online marketing campains.
 
 ## 2. What We do
 
@@ -18,7 +18,7 @@ We create online websites to your preferences for a reasonable price, we will pr
 
 ## 4. Online Marketing
 
-We can set up and run PPC advertising for you on the optimal platforms that will get it attention with a charge of $150 to $500 depending on the amount of platforms you want your advertisement to be displayed. We also offer another option of ours which is called Search Engine Optimization or SEO. This strategy will help your website get to the top of the customers search results when they search the SEO keywords that describe your business and services. Please contact us or go to the pricing page for more details. 
+We can set up and run PPC advertising for you on the optimal platforms that will get it attention with a charge only depending on the amount of platforms you want your advertisement to be displayed. We also offer another option of ours which is called Search Engine Optimization or SEO. This strategy will help your website get to the top of the customers search results when they search the SEO keywords that describe your business and services. Please contact us or go to the pricing page for more details. 
 
 
 

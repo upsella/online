@@ -27,7 +27,7 @@ Click "Buy Now” to purchase the Website implementation and agree to UPSELLA's 
   We renew DNS domains, SSL certificate, and upgrade software to the latest version as needed.
   We apply minor content/product updates based on your descriptions & specifciations.
   We use Github in your publish process, ensuring your site is automatically backed up and versioned.
-  We deploy your website using Hugo, Github pages, Netlify, Stripe to ensure that your site is blazing fast, reliable, and secure.
+  We deploy your website using Hugo, Github pages, Netlify, and Stripe to ensure that your site is blazing fast, reliable, and secure.
   For major updates and upgrades, please contact us for a custom quote. 
   We also provide SEO optimization and PPC adverising services as addons to the suport plans.
 {{< rawhtml >}}
@@ -45,7 +45,7 @@ Click "Subscribe” to purchase the Website support service and agree to UPSELLA
 
 ## PPC Advertising - Monthly Campaigns
 
-  * After your website is implemented, we can setup a Pay Per Click advertising campain to promote your business on Google AdWords and other platforms.
+  * Another service of ours includes setting up a Pay Per Click advertising campain to promote your business on Google AdWords and other platforms.
   * Google Ads is an online advertising solution that businesses use to promote their products and services on Google Search, Google Display, and through video with YouTube.
   * Google Ads allows advertisers to choose specific goals for their campaigns, like driving phone calls, completing form fills, or driving website visits. With a Google Ads account, advertisers can customize their budgets, target customers by location, bid on keywords, and do much
   * We define and monitor keyword performance to optimize your results and minimize your cost per customer conversion.
@@ -53,7 +53,7 @@ Click "Subscribe” to purchase the Website support service and agree to UPSELLA
   * You can choose a custom PPC amount based on your budget.  Upsella fee is only 15% of your spend.  
 {{< rawhtml >}}
 <br>   
-Please select your PPC monthly budget amount (minimum is $500).  Contact us to estimate your monthly PPC budget.
+Please select your PPC monthly budget amount (minimum is $500).  Contact us to estimate your monthly PPC budget and requirements.
 </p>
 
 <div id="pricewell-e72386fb-cf95-4b91-b30d-817767f60122"></div><script src="https://snippet.pricewell.io/e72386fb-cf95-4b91-b30d-817767f60122/pricewell.js" async=""></script>
