@@ -53,7 +53,7 @@ Click "Subscribe” to purchase the Website support service and agree to UPSELLA
   * You can choose a custom PPC amount based on your budget.  Upsella fee is only 15% of your spend.  
 {{< rawhtml >}}
 <br>   
-Please select your PPC monthly budget amount (minimum is $500).
+Please select your PPC monthly budget amount (minimum is $500).  Contact us to estimate your monthly PPC budget.
 </p>
 
 <div id="pricewell-e72386fb-cf95-4b91-b30d-817767f60122"></div><script src="https://snippet.pricewell.io/e72386fb-cf95-4b91-b30d-817767f60122/pricewell.js" async=""></script>
