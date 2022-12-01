@@ -1,5 +1,5 @@
 +++
-title = "About Us"
+title = "About Upsella"
 description = "About Us - UpSella will help you to increase sales with Intenet Marketing. "
 keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "California"]
 +++
