@@ -196,6 +196,6 @@ pluralizelisttitles = false
     enable = true
 
 [taxonomies]
-  category = "categories"
+  category = ""
   tag = ""
   author = "authors"
