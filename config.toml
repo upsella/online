@@ -195,3 +195,7 @@ pluralizelisttitles = false
 [params.footer.recent_posts]
     enable = true
 
+[taxonomies]
+  category = "categories"
+  tag = ""
+  author = "authors"
