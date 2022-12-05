@@ -16,7 +16,11 @@ We set up online marketing and create websites for your business. We design webs
 
 We create online websites to your preferences for a reasonable price, we will provide you many options for your website to have the look, feel and functionality you desire.  We will only charge based on the options you choose. We will make sure we build a website you love that increases your online visibility and customers. 
 
-## 4. Online Marketing
+## 4. Web Development Technology
+
+Build your website on a modern tech stack while optimizing it for SEO, speed, and reliability.  Hugo (also known as Hugo js) is known as the world’s fastest framework for building websites. Hugo (SSG) is a static site generator written in Go with the idea of high performance in the build process. Hugo has its template language based on HTML and CSS. It also supports Markdown and other languages through plugins.  We integrate Hugo with third party systems to implement many addons such as online billing and calendar scheduling: Stripe, Formspree, Calendly, Youtube, and others. To accelerate development of your website we use Hugo templates also known as themes, and we can help you to pick you favorite design from several available theme catalogs such as this one: https://themefisher.com/best-hugo-themes
+
+## 5. Online Marketing
 
 We can set up and run PPC advertising for you on the optimal platforms that will get it attention with a charge only depending on the amount of platforms you want your advertisement to be displayed. We also offer another option of ours which is called Search Engine Optimization or SEO. This strategy will help your website get to the top of the customers search results when they search the SEO keywords that describe your business and services. Please contact us or go to the pricing page for more details. 
 
