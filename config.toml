@@ -197,18 +197,5 @@ pluralizelisttitles = false
 
 [taxonomies]
   category = "categories"
-  tag = ""
-  author = ""
-
-enableGitInfo = true
-
-[frontmatter]
-date = ["date","lastmod"]
-lastmod = [":git", "lastmod", "date"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
-
-[sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.6
+  tag = "tags"
+  author = "authors"
