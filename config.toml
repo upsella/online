@@ -200,11 +200,13 @@ pluralizelisttitles = false
   tag = ""
   author = ""
 
+enableGitInfo = true
+
 [frontmatter]
-  date = ['date', 'publishDate', 'lastmod']
-  expiryDate = ['expiryDate']
-  lastmod = [':git', 'lastmod', 'date', 'publishDate']
-  publishDate = ['publishDate', 'date']
+date = ["date","lastmod"]
+lastmod = [":git", "lastmod", "date"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
 
 [sitemap]
   changefreq = 'monthly'
