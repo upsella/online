@@ -9,6 +9,7 @@ defaultContentLanguage = "en"
 disqusShortname = "Upsella"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+enableRobotsTXT = true
 
 # number of words of summarized post content (default 70)
 summaryLength = 70

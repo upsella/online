@@ -1,5 +1,5 @@
 weight: 2
-name: "Contact Us"
-icon: "fas fa-print"
-url: ""
-description: "Click on the contact page and inform us of your request for web design and online marketing."
+name: "Online Payments"
+icon: "fas fa-credit-card"
+url: "/pricing"
+description: "Offer your customers an option to pay online via credit cards or Apple Pay. Make it easy to make appointments online, sell online courses, sell products, accept donations, or charge monthly memberships. Parts of your website can be offered only to paying customers."
