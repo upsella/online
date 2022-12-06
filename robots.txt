@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /pricing/
+
+
+
+Sitemap: https://upsella.online/sitemap.xml
