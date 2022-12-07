@@ -1,7 +1,7 @@
 +++
 title = "Upsella Pricing"
 description = "Pricing - UpSella will help you to increase sales with Intenet Marketing. "
-keywords = ["Web Design", "Internet Marketing", "SEO", "PPC", "San Diego", "California"]
+keywords = ["Website Design", "Internet Marketing", "SEO", "PPC", "San Diego", "California"]
 +++
 
 ## Website Design Services - Initial Implementation

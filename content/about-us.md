@@ -12,7 +12,7 @@ UpSella is a business that was created by professionals who have a passion for i
 
 We set up online marketing and create websites for your business. We design websites by picking a template of your choice then downloading it into a code editor. After that we code the rest of your website and pick a domain for your website to launch on the web. We renew your DNS domain every year to make sure your site keeps running.  We also offer online marketing options including PPC advertising and SEO on your website to market your business and up your sales.  
 
-## 3. Web Design
+## 3. Website Design
 
 We create online websites to your preferences for a reasonable price, we will provide you many options for your website to have the look, feel and functionality you desire.  We will only charge based on the options you choose. We will make sure we build a website you love that increases your online visibility and customers. 
 
