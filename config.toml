@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "Upsella"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "G-VX8WDW1QPL"
 enableRobotsTXT = true
 
 # number of words of summarized post content (default 70)
