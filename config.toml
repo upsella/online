@@ -1,4 +1,4 @@
-baseurl = "https://upsella.online/" 
+baseurl = "https://upsella.org/" 
 title ="Upsella Website Design"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
