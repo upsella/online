@@ -20,8 +20,13 @@ paginate = 10
 # not pluralize title pages by default
 pluralizelisttitles = false
 
-[menu]
+# pull edit times
+enableGitInfo = true
 
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+[menu]
 
 # Main menu
 [[menu.main]]

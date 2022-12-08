@@ -1,4 +1,4 @@
-weight: 3
+weight: 2
 title: "Online Marketing"
 description: >
   <ul class="list-style-none">
@@ -7,3 +7,4 @@ description: >
     <li>PPC - Pay Per Click Advertising</li>
   </ul>
 image: "img/carousel/online_marketing.png"
+href: "about-us"
