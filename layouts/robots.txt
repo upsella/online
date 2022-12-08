@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /pricing/
 
 {{ range where .Data.Pages "Params.robotsdisallow" true }}
 Disallow: {{ .RelPermalink }}
