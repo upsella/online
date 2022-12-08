@@ -3,4 +3,4 @@ Disallow: /pricing/
 
 
 
-Sitemap: https://upsella.online/sitemap.xml
+Sitemap: https://upsella.org/sitemap.xml
