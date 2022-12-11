@@ -93,6 +93,7 @@ For good and valuable consideration, the receipt and sufficiency of which are he
 1. Copy writing is iterative process, and for this reason we offer 'unlimited text content revisions'. This means that we will continue to work with you on your content until you are happy with the text on the website. The unlimited content revision period ends if the Client does not renew support subscription. Text content changes beyond this point are subject to additional charges.
 1. UpSella 
 1. Text content additions and modifications are provided as a ‘per page’ service. The number of pages of text content we support shall be based on the amount agreed as per your Service Order.
+1. If needed we offer 5 small changes to your website for free every year. Any more than 5 changes will include an estimated additional cost that will be estimated by Upsella. Any other changes to your website that will take Upsella over a 30 minutes to fix will not be considered a small change and will also include an estimated additional cost charged to the customer, estimated by Upsella. 
 
 
 ## 7. Domain Names and Links
