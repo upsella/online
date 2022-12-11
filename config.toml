@@ -68,7 +68,7 @@ enableGitInfo = true
     author = "Upsella"
     defaultKeywords = ["web design", "PPC", "internet marketing", "website hosting", "San Diego"]
     mainSections = ["blog"]
-    defaultDescription = "UpSella creates and markets online websites for your business at lower prices and with better sales results than other organizations."
+    defaultDescription = "UpSella is San Diego based web design agency that creates and markets online websites for your business at lower prices and with better sales results than other organizations."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -119,7 +119,7 @@ enableGitInfo = true
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>UpSella creates and markets online websites for your business at lower prices and with better sales results than other organizations.</p>"
+    about_us = "<p>UpSella is San Diego based web design agency that creates and markets online websites for your business at lower prices and with better sales results than other organizations.</p>"
     copyright = "Copyright (c) 2019 - 2022, Upsella; all rights reserved."
 
     # Format dates with Go's time formatting
