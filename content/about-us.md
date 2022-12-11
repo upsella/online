@@ -12,7 +12,7 @@ keywords = [
 +++
 ## 1. Our Business
 
-UpSella is a business that was created by professionals who have a passion for internet marketing, creative design and website building. Our mission is to help small businesses and non-profits to increase sales with online marketing. Your website is the gold standard for online home base. We will help you to create a site that accurately establishes your business and brand image, and if needed with ability to accept payments online. We will also implement online advertising (SEO and PPC) to drive more visitors to your site. UpSella is the solution for companies without large funding, as we create affordable websites and online marketing campains.
+UpSella is a web design agency that was created by professionals who have a passion for internet marketing, creative design and website building. Our mission is to help small businesses and non-profits to increase sales with online marketing. Your website is the gold standard for online home base. We will help you to create a site that accurately establishes your business and brand image, and if needed with ability to accept payments online. We will also implement online advertising (SEO and PPC) to drive more visitors to your site. UpSella is the solution for companies without large funding, as we create affordable websites and online marketing campains.
 
 ## 2. What We do
 

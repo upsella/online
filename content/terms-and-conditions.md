@@ -90,10 +90,8 @@ For good and valuable consideration, the receipt and sufficiency of which are he
 1. UpSella offers free SSL with sites we host and manage DNS for. If you wish to manage DNS independently, we cannot provide support for SSL.
 1. Payments for Website Support products are non-refundable and non-transferable.
 1. While a website is hosted with Provider, we shall be available between the hours of 8:00 AM and 6:00 PM  PST Monday – Friday, excluding all bank holidays. Within a reasonable time, we will look to fix any issues with the website, or accept and deploy customer changes to website content.
-1. Copy writing is iterative process, and for this reason we offer 'unlimited text content revisions'. This means that we will continue to work with you on your content until you are happy with the text on the website. The unlimited content revision period ends if the Client does not renew support subscription. Text content changes beyond this point are subject to additional charges.
-1. UpSella 
-1. Text content additions and modifications are provided as a ‘per page’ service. The number of pages of text content we support shall be based on the amount agreed as per your Service Order.
-1. If needed we offer 5 small changes to your website for free every year. Any more than 5 changes will include an estimated additional cost that will be estimated by Upsella. Any other changes to your website that will take Upsella over a 30 minutes to fix will not be considered a small change and will also include an estimated additional cost charged to the customer, estimated by Upsella. 
+1. Copy writing is iterative process, and for this reason we offer Client to make changes to website content and submit changes for Provider to review and deploy to the live website. Text content additions and modifications are provided as a ‘per page’ service. The number of pages of text content we support shall be based on the amount agreed as per your Service Order.  Text content changes beyond this point are subject to additional charges.
+1. If needed we offer 5 small changes to your website for free every year. Additional changes will include an additional cost that will be estimated by Upsella. Any other changes to your website that will take Upsella over a 30 minutes to fix will not be considered a small change and will also include an estimated additional cost charged to the customer, estimated by Upsella. 
 
 
 ## 7. Domain Names and Links
