@@ -43,6 +43,12 @@ enableGitInfo = true
     weight     = 3
 
 [[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 4
+
+[[menu.main]]
     name       = "About Us"
     identifier = "menu.about-us"
     url        = "/about-us/"
@@ -134,9 +140,8 @@ enableGitInfo = true
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>UpSella LLC</strong>
-        <br>San Diego, California
-        <br>
-        <strong>San Diego</strong>
+        <br>P.O. BOX 3453 
+        <br>San Diego, California 92123
       </p>
       """
 
