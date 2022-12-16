@@ -2,7 +2,7 @@
 title: Big goals for small business websites.
 subtitle: How to increase your sales and  ensure that your website is low maintenance, cost-effective, and flexible.
 date: 2022-12-16T04:20:46.458Z
-summary: To ensure that your website is low maintenance, cost-effective, and flexible, it's important to choose the right technology and implementation partner. Upsella web design agency provides a full range of servicec for getting up and running with a custom business website.
+summary: To ensure that your website is low maintenance, cost-effective, and flexible, it's important to choose the right technology and implementation partner. Upsella provides a full range of services for getting up and running with a modern business website.
 draft: false
 featured: false
 banner: "img/big-goals.jpg"
