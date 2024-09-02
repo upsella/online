@@ -40,6 +40,12 @@ enableGitInfo = true
     name       = "Pricing"
     identifier = "menu.pricing"
     url        = "/pricing/"
+    weight     = 2
+
+[[menu.main]]
+    name       = "Portfolio"
+    identifier = "menu.portfolio"
+    url        = "/portfolio/"
     weight     = 3
 
 [[menu.main]]
@@ -52,13 +58,13 @@ enableGitInfo = true
     name       = "About Us"
     identifier = "menu.about-us"
     url        = "/about-us/"
-    weight     = 6
+    weight     = 5
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 7
+    weight     = 6
 
 
 # Top bar social links menu
